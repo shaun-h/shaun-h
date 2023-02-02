@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Shaun and I am a developer from Australia 🇦🇺
+
+You can find me on <a rel="me" href="https://hachyderm.io/@shaunhevey">Mastodon</a> 🐘
+
 <!--
 **shaun-h/shaun-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
